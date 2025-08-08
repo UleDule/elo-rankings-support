@@ -32,7 +32,7 @@ Please email us at contact.nordicworks@gmail.com with:
 
 ## Privacy Policy
 
-[View our Privacy Policy](https://raw.githubusercontent.com/UleDule/elo-rankings-privacy/main/index.md)
+[View our Privacy Policy](https://uledule.github.io/elo-rankings-privacy/)
 
 ## Updates
 
